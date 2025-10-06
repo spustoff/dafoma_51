@@ -288,3 +288,4 @@ struct CategoryProgress: Identifiable {
     let totalCompletions: Int
     let averageStreak: Int
 }
+

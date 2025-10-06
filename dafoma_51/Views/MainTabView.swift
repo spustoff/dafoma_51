@@ -44,13 +44,6 @@ struct MainTabView: View {
                     Text("Tips")
                 }
             
-            CommunityView()
-                .environmentObject(communityViewModel)
-                .tabItem {
-                    Image(systemName: "person.2.fill")
-                    Text("Community")
-                }
-            
             SettingsView()
                 .environmentObject(goalViewModel)
                 .environmentObject(habitViewModel)

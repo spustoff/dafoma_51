@@ -198,3 +198,4 @@ struct StoryTemplate {
     let category: StoryCategory
     let suggestedTags: [String]
 }
+

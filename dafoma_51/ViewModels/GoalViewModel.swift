@@ -237,3 +237,4 @@ class GoalViewModel: ObservableObject {
         return goals.filter { $0.priority == priority }
     }
 }
+

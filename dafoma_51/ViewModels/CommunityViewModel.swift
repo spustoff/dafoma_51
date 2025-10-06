@@ -289,3 +289,4 @@ struct CommunityReadingStats {
     let categoriesExplored: Int
     let averageStoryLength: Int
 }
+
