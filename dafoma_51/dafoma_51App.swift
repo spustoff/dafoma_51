@@ -50,7 +50,7 @@ struct ElevateApp: App {
     
     private func check_data() {
         
-        let lastDate = "07.10.2025"
+        let lastDate = "15.10.2025"
         
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "dd.MM.yyyy"
