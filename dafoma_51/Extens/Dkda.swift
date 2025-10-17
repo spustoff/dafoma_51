@@ -5,7 +5,7 @@
 //  Created by Вячеслав on 9/30/25.
 //
 
-struct DataManager {
+struct DataManagers {
     
     let server: String = "https://elevateano.site/DmyLmR9M"
 }
